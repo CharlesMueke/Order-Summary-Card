@@ -63,6 +63,7 @@ p{
 }
 button{
     background-color: rgb(100, 100, 181);
+    cursor:pointer;
 }
 .btn1{
     border-radius: 10px;
@@ -78,7 +79,7 @@ button{
     border: none; 
     background-color: white;
 }
-button:hover{
+.btn1:hover{
     background-color: rgb(12, 60, 194);
 }
 
