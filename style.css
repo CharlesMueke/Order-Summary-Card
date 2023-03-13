@@ -79,7 +79,7 @@ button{
     background-color: white;
 }
 button:hover{
-    color: rgb(12, 60, 194);
+    background-color: rgb(12, 60, 194);
 }
 
 @media only screen and (max-width:375px){
@@ -88,39 +88,3 @@ button:hover{
         width: 88%;
     }
 }
-/*
-@media only screen and (max-width:1440px){
-    .container{
-        top: 50%;
-        width: 80%;
-        height: 93%;
-    }
-    p{
-        margin-right: 0px;
-    }
-    h1{
-        font-size: 4.5em;
-    }
-    h2{
-        font-size: 1.6em;
-    }
-    a{
-        margin-right: 125px;
-    }
-    .two{
-        margin-left: 124px;
-    }
-    .btn1{
-        width: 500px;
-        height: 67px;
-        font-size: 1.5em;
-    }
-    .btn2{
-        width: 500px;
-        height: 67px;
-        font-size: 1.5em;
-    }
-    .attribution{
-        font-size: 21px;
-    }
-}*/
